@@ -1,9 +1,7 @@
 import 'package:animations/screens/animated_opacity.dart';
 import 'package:animations/screens/hero_page.dart';
 import 'package:animations/screens/home_page.dart';
-import 'package:device_preview/device_preview.dart';
 import 'package:flutter/material.dart';
-
 import 'screens/animated_builder.dart';
 import 'screens/animation_controller.dart';
 
